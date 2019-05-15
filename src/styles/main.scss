@@ -1,5 +1,13 @@
 @import "~bootstrap/scss/bootstrap";
 
 body {
-  background-color: rebeccapurple;
+  background-color: rgb(214, 191, 168);
+}
+
+.hide {
+  display: none;
+}
+
+.card{
+  margin: 5px;
 }
